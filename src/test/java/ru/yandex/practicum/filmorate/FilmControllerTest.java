@@ -75,4 +75,5 @@ class FilmControllerTest {
             throw new ValidationException("Продолжительность фильма должна быть положительным числом");
         }
     }
+
 }

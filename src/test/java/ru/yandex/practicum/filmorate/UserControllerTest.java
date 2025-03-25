@@ -83,4 +83,5 @@ class UserControllerTest {
             throw new ValidationException("Дата рождения не может быть в будущем");
         }
     }
+
 }
